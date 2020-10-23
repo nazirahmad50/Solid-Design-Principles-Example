@@ -1,0 +1,9 @@
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V3\bin\Debug\V3.dll
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V3\bin\Debug\V3.pdb
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V3\bin\Debug\Figgle.dll
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V3\bin\Debug\Figgle.xml
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V3\obj\Debug\V3.csprojAssemblyReference.cache
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V3\obj\Debug\V3.csproj.CoreCompileInputs.cache
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V3\obj\Debug\V3.csproj.CopyComplete
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V3\obj\Debug\V3.dll
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V3\obj\Debug\V3.pdb

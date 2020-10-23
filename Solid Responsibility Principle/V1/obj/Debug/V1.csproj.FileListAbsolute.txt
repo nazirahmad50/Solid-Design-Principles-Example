@@ -1,0 +1,5 @@
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V1\bin\Debug\V1.dll
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V1\bin\Debug\V1.pdb
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V1\obj\Debug\V1.csproj.CoreCompileInputs.cache
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V1\obj\Debug\V1.dll
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Solid Responsibility Principle\V1\obj\Debug\V1.pdb

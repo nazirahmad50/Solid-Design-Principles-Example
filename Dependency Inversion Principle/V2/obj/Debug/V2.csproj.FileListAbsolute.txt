@@ -1,0 +1,6 @@
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Dependency Inversion Principle\V2\bin\Debug\V2.exe.config
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Dependency Inversion Principle\V2\bin\Debug\V2.exe
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Dependency Inversion Principle\V2\bin\Debug\V2.pdb
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Dependency Inversion Principle\V2\obj\Debug\V2.csproj.CoreCompileInputs.cache
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Dependency Inversion Principle\V2\obj\Debug\V2.exe
+C:\Users\Nazir\Desktop\Work\Advanced Topics\SOLID Design Principles\Dependency Inversion Principle\V2\obj\Debug\V2.pdb
